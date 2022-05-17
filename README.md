@@ -1,2 +1,11 @@
 # plotly_dash
-Visualisation and practice
+Hi! This is my pet-project to learn visualization
+
+### Install and running
+
+#### Install
+
+
+#### Libraries
+
+#### Running
